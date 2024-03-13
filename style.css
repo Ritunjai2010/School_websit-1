@@ -1,0 +1,26 @@
+.navbar
+{
+    background : grey ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+li
+{
+    list-style-type: none;
+    display: inline-block;
+}
+.navdiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+li a
+{
+    color: white;
+    margin-right: 25px;
+}
+#name
+{
+    font-size: 20px;
+}
